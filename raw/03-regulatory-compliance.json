@@ -1,0 +1,1028 @@
+{
+  "createdAt": "2026-07-02T17:02:27.738Z",
+  "error": null,
+  "id": "3cd38357-f157-4e21-ab82-7e6fd009128e",
+  "status": "completed",
+  "updatedAt": "2026-07-02T17:10:51.042Z",
+  "input": {
+    "q": "Summarise the regulatory, food-contact, and labelling requirements for importing and selling packaged beer in glass bottles into the European Union market as of 2026.\n\nCover:\n- Mandatory on-label information for beer sold in the EU (e.g. alcoholic strength, net quantity, ingredients/allergens, energy/nutrition, responsible operator, lot/batch)\n- Language requirements\n- Food-contact material rules relevant to labels, inks and adhesives touching the product\n- Packaging and packaging-waste obligations, including deposit-return scheme trends and extended producer responsibility\n- Any recent or upcoming changes (e.g. EU Packaging and Packaging Waste Regulation)\n\nWhere possible, cite official sources (EUR-Lex, European Commission, national authorities). Note where requirements differ by member state, and flag anything that is still proposed rather than in force.\n\nSourcing and citation rules (apply to every claim):\n- For each factual claim, cite the specific source that directly states that claim. Never attach a citation that does not itself contain the claim.\n- Never cite a document dated before an event as the source for that event; the citation's own date must be consistent with the claim.\n- Strongly prefer primary and authoritative sources: official company filings and press releases, regulators and government bodies, courts, standards bodies, and reputable news or trade press. Do not base a factual claim on SEO/marketing blogs, content farms, or open B2B marketplace listings; use such sources only if nothing better exists, and then explicitly label the claim as low-confidence.\n- Label every figure as reported, estimate, or forecast, and give its date or as-of period.\n- For any dramatic, contested, or fast-moving event, calibrate your language to what is actually confirmed, distinguish confirmed facts from uncertain ones, note where sources disagree on dates or numbers, and anchor to the most authoritative source available.\n- If you cannot find a solid source for a claim, say so explicitly instead of asserting it.",
+    "toDate": "2026-07-02",
+    "mode": "investigate",
+    "outputType": "sourcedAnswer",
+    "reasoningDepth": "L"
+  },
+  "output": {
+    "answer": "**Executive Summary**\n\nAs of July 2026, importing and selling packaged beer in glass bottles into the European Union requires compliance with a dual framework: the established Food Information to Consumers (FIC) Regulation (EU) No 1169/2011 and the newly enforceable Packaging and Packaging Waste Regulation (PPWR) (EU) 2025/40. While beer above 1.2% ABV remains exempt from EU-wide mandatory ingredient and nutrition labeling, national exceptions (such as Germany's purity laws) and voluntary industry standards heavily influence label design. Crucially, the PPWR\u2014which takes full effect on August 12, 2026\u2014introduces strict Extended Producer Responsibility (EPR) mandates, requiring non-EU importers to appoint an Authorized Representative (AR) and print their contact details physically on the label. Furthermore, new chemical restrictions ban BPA in adhesives and inks by July 20, 2026, and PFAS in food-contact packaging by August 12, 2026.\n\n---\n\n**1. Mandatory On-Label Information**\n\nUnder the FIC Regulation (EU) No 1169/2011, beer labels must meet specific formatting and informational requirements. Mandatory food information must be printed in a font size with an x-height of at least 1.2 mm, or 0.9 mm for packages with a surface area smaller than 80 cm\u00b2 [Food Labelling: All Rules and Mandatory Information Under EU 1169/2011]. Stickers are permitted for mandatory labeling provided they are not easily removable [EU-28 Food and Agricultural Import Regulations and Standards Report].\n\n*   **Alcoholic Strength and Net Quantity:** Beverages containing more than 1.2% alcohol by volume (ABV) must display their actual alcoholic strength by volume [Consolidated TEXT: 32011R1169 \u2014 EN \u2014 01.04.2025]. The net quantity and the name/address of the food business operator are also mandatory [Alcohol labelling - BRIEFING EPRS | European Parliamentary Research Service].\n*   **Ingredients and Nutrition:** Alcoholic beverages above 1.2% ABV are currently exempt from mandatory EU ingredient lists and nutrition declarations [Alcohol labelling - Food Safety - European Commission]. However, if a nutrition declaration is provided voluntarily, it may be limited to the energy value alone [Alcohol labelling - BRIEFING EPRS | European Parliamentary Research Service]. By 2022, voluntary initiatives led 95% of beer volumes sold in the EU to include an ingredient list and 88% to label energy values [Nutrition and ingredient labelling in the EU alcohol sector: the strange mix of mandatory and voluntary initiatives].\n*   **Allergens:** The labeling of the 14 most common allergens (e.g., cereals containing gluten) is mandatory, even without a full ingredient list [Alcohol labelling: State of play - European Parliament]. \n*   **Durability and Lot/Batch Marking:** Beers below 10% ABV must indicate a date of minimum durability [Alcohol labelling: State of play - European Parliament]. Under Directive 2011/91/EU, all foodstuffs must bear a lot/batch identifier determined by the producer or first EU seller, preceded by the letter \"L\" (unless clearly distinguishable) [Directive 2011/91/EU of the European Parliament and of the Council of 13 December 2011 on indications or marks identifying the lot to which a foodstuff belongs (codification) (Text with EEA relevance)]. The lot number does not need to appear in the same field of vision as the product name or ABV [International Affairs Resources for Belgium | TTB: Alcohol and Tobacco Tax and Trade Bureau].\n\n**National Divergences in Labeling**\nArticle 41 of the FIC Regulation allows Member States to maintain national measures for alcoholic beverage ingredients [Alcohol labelling - BRIEFING EPRS | European Parliamentary Research Service]. \n*   **Germany:** Since 1994, under the *Vorl\u00e4ufiges Biergesetz* and *Bierverordnung*, beer marketed in Germany must be labeled with a list of ingredients in descending order of weight, preceded by the word \"Zutaten\" [BMLEH - Food labelling - EU-wide uniform food labelling lmiv-fic] [Germany | TTB: Alcohol and Tobacco Tax and Trade Bureau]. Imported beers not conforming to the German *Reinheitsgebot* (Purity Law) must list all nonconforming ingredients [The Reinheitsgebot - One Country's Interpretation of Quality Beer \u2013 MoreBeer!].\n*   **Ireland:** Ireland has postponed the implementation of mandatory cancer warnings on alcohol labels until September 2028 [Alcohol labelling: State of play - European Parliament].\n\n**Language Requirements**\nArticle 15 of the FIC Regulation requires mandatory information to appear in a language easily understood by consumers where the food is marketed, though multi-language labels are permitted [Language and presentation of food information - Food Safety] [L_2011304EN.01001801.xml - EUR-Lex - European Union]. \n\n| Member State | Allergen Language Requirement | Other Mandatory Info Language Requirement | Source |\n| :--- | :--- | :--- | :--- |\n| **Germany** | German | Any official EU language(s) | [Germany \\| TTB: Alcohol and Tobacco Tax and Trade Bureau] |\n| **France** | French or English | Any official EU language(s) | [France \\| TTB: Alcohol and Tobacco Tax and Trade Bureau] |\n| **Netherlands**| Dutch | Not specified in findings | [International Affairs Resources for the Netherlands \\| TTB: Alcohol and Tobacco Tax and Trade Bureau] |\n| **Belgium** | Dutch, French, German, or English | Not specified in findings | [International Affairs Resources for Belgium \\| TTB: Alcohol and Tobacco Tax and Trade Bureau] |\n| **Spain** | Spanish, English, French, Italian, or Portuguese | Not specified in findings | [Spain \\| TTB: Alcohol and Tobacco Tax and Trade Bureau] |\n| **Portugal** | Portuguese, English, French, or Spanish | Not specified in findings | [Portugal \\| TTB: Alcohol and Tobacco Tax and Trade Bureau] |\n\n---\n\n**2. Food Contact Materials (FCM): Glass, Inks, and Adhesives**\n\nGlass, adhesives, and printing inks fall under the framework Regulation (EC) No 1935/2004 and the Good Manufacturing Practices (GMP) Regulation (EC) No 2023/2006 [Food Contact Materials - Food Safety - European Commission] [Legislation - Food Safety - European Commission]. While glass is low-risk\u2014research shows only 47 chemicals migrating from glass/ceramics compared to 1,975 from plastics\u2014regulators are tightening rules [Food Safety and Compliance: Why Our Glass Packaging Meets the Highest Standards - Pattesons].\n\n*   **BPA and PFAS Bans:** Commission Regulation (EU) 2024/3190 prohibits Bisphenol A (BPA) in food contact adhesives and printing inks, with single-use items required to comply by July 20, 2026 [EU Guidance on BPA and Other Bisphenols Ban in Food-Contact Materials]. Additionally, the PPWR bans per- and polyfluoroalkyl substances (PFAS) in food-contact packaging effective August 12, 2026 [Food contact materials in the EU: State of play].\n*   **Heavy Metals:** The European Commission is lowering migration limits for lead and cadmium from vitreous materials like glass [Revision of EU rules on FCMs - Food Safety - European Union]. While health certificates are normally not required for beer imports, customs laboratories perform controls, and consignments can face border rejections for non-compliant metal migration [Importing drinks | Food Standards Agency] [EU Customs Laboratories - Taxation and Customs Union - European Commission] [Serious Notifications on Food Contact Materials in the EU RASFF - PMC].\n*   **Inks and Adhesives:** There are no EU-wide harmonized specific measures for inks and adhesives [Food Contact Materials - Regulation (EC) 1935/2004 | Think Tank | European Parliament]. However, Germany has reintroduced a national Printing Ink Ordinance with a positive list of roughly 600 chemicals, phasing in until December 2026 [Printing inks and adhesive chemicals detected in a wide variety of foods | Food Packaging Forum].\n\n---\n\n**3. Packaging, Waste, and the 2026 PPWR**\n\nThe Packaging and Packaging Waste Regulation (EU) 2025/40 (PPWR) entered into force on February 11, 2025, and applies in full from August 12, 2026 [PPWR Compliance Guide 2026: What Changes 12 August]. The regulation introduces a broad definition of \"producer\" that includes importers, making them responsible for Extended Producer Responsibility (EPR) registration, reporting, and financing waste management [The new EU packaging regulation: Key requirements from August 2026 | Gleiss Lutz].\n\n**Authorized Representative (AR) and Traceability**\n*   **Mandatory Appointment:** Non-EU producers must appoint an Authorized Representative (AR) in each Member State where they sell goods to handle EPR duties [EPR Compliance in the EU: 2026 Guide | Complir]. Failure to do so by August 12, 2026, can result in sales bans and fines up to \u20ac200,000 [PPWR Requirements 2026 \u2014 EU Directive Packaging Law, EPR Registration and Full Compliance Guide - Lovat Compliance].\n*   **Physical Labeling Requirement:** Starting August 12, 2026, packaging must physically bear the name, registered trade name or trademark, and a postal address for the manufacturer and the importer/AR [Get ready for the EU\u2019s packaging regulation: PPWR Requirements that are effective from August]. The European Commission has confirmed under the overlapping General Product Safety Regulation (GPSR) that digital labels (e.g., QR codes) cannot replace physical labels for mandatory contact information [Labeling Requirements for GPSR Compliance - EARP].\n*   **Declarations of Conformity:** Importers must ensure the manufacturer has drawn up technical documentation and an EU Declaration of Conformity (DoC), which the AR must retain for 5 years for single-use packaging and 10 years for reusable packaging [PPWR Declaration of Conformity: what it is, when you need it and how to get it from suppliers].\n\n**Deposit-Return Schemes (DRS) and Reuse Targets**\nThe PPWR mandates that Member States establish a DRS for single-use plastic and metal beverage containers by January 1, 2029, but only requires them to \"endeavour\" to establish a DRS for glass [European Commission calls for mandatory Deposit and Return systems in Member States | DWF Group]. \n*   **Current Glass DRS:** Germany includes glass bottles in its DRS (deposits of \u20ac0.08 and \u20ac0.15) [Overview and results of Deposit Return Schemes in Europe]. Poland's DRS (operational in 2026) includes reusable glass bottles up to 1.5 liters (1 PLN deposit) [Which Countries Have Deposit Return Schemes in 2026? | TOMRA]. Belgium maintains a deposit on reusable glass beer bottles [Race towards Deposit Return Systems | Fair Resource Foundation].\n*   **Reuse Targets:** By 2030, beverage distributors must ensure 10% of products are in reusable packaging [Packaging and packaging waste (from 2026) | EUR-Lex]. Reusable packaging must bear a specific label indicating reusability and, by February 2029, carry a QR code to facilitate tracking [The new EU packaging regulation: Key requirements from August 2026 | Gleiss Lutz] [PPWR Compliance 2026: Guide for Manufacturers & Importers].\n\n---\n\n**4. Environmental Labeling and the Triman Dispute**\n\nThe PPWR introduces a single harmonized EU labeling system for sortability and material markings, which will replace national schemes by August 12, 2028 [PPWR labelling requirements explained: sortability, material and reuse markings]. \n\nUntil then, national rules apply, most notably France's Triman logo. The European Commission has referred France to the Court of Justice of the European Union (CJEU), arguing the Triman logo restricts trade [European Commission Takes France to Court Over Triman Logo]. Despite this, France intends to enforce the Triman logo until the 2028 PPWR harmonization, with fines up to \u20ac15,000 per violation [Triman Logo Dispute \u2013 French EPR Labelling vs. EU Harmonisation] [The Complete 2026 Guide to Triman Labeling and EPR Compliance in France]. \n\n*Crucial Exemption for Glass:* Household glass beverage containers are specifically exempted from the mandatory Triman logo and Info-Tri marking requirements under the French AGEC Law [European Commission Takes France to the CJEU Over Mandatory Triman Signage | ChemLinked]. \n\n---\n\n**5. Industry Impact and Criticisms**\n\nThe Brewers of Europe have heavily criticized the PPWR for creating uncertainty. Key industry concerns include:\n*   **Asset Stranding:** A lack of clarity on reuse targets risks the premature withdrawal of reusable assets like crates, weakening existing DRS systems [Brewers of Europe call for urgent clarification on EU packaging rules following Commission communication | The Brewers of Europe]. Brewers also require clarification on whether B2B reusable kegs count toward reuse targets [European Commission Issues Guidance on E.U. Packaging Rules Before 2026 Deadline].\n*   **No Grace Period:** There is no grace period for placing non-compliant packaging on the market after August 12, 2026, raising fears that existing stock will become non-compliant waste [What the industry thinks as CEOs appeal to clarify and push back PPWR rules | Article | Packaging Europe].\n*   **Cost Increases:** EPR fees will be eco-modulated based on recyclability. Industry experts warn that these compliance costs may accelerate the decline in bottled beer variety and increase consumer prices [EPR: what it means for the alcohol industry].\n\n---\n\n**Gaps and Limitations**\n*   The findings do not specify the exact language requirements for mandatory information (other than allergens) for the Netherlands, Belgium, Spain, or Portugal, noting only that they must be easily understood.\n*   The findings do not provide the exact date in 2026 when Poland's DRS becomes fully operational, only that it is expected in 2026.\n*   While the findings note that health certificates are \"normally not required\" for beer, they do not definitively state the exact customs clearance documentation required for glass beer bottles beyond standard excise/VAT and labeling checks.",
+    "sources": [
+      {
+        "name": "Alcohol labelling - Food Safety - European Commission",
+        "url": "https://food.ec.europa.eu/food-safety/labelling-and-nutrition/food-information-consumers-legislation/alcohol-labelling_en",
+        "favicon": "",
+        "snippet": "Under Regulation (EU) No 1169/2011 (FIC), alcoholic beverages containing more than 1.2% by volume of alcohol are currently exempted from the mandatory obligation to provide a list of ingredients and a nutrition declaration."
+      },
+      {
+        "name": "Consolidated TEXT: 32011R1169 \u2014 EN \u2014 01.04.2025",
+        "url": "https://eur-lex.europa.eu/eli/reg/2011/1169/2025-04-01/eng",
+        "favicon": "",
+        "snippet": "For beverages containing more than 1.2% by volume of alcohol, the indication of the actual alcoholic strength by volume (ABV) is mandatory on the label."
+      },
+      {
+        "name": "Alcohol labelling: State of play - European Parliament",
+        "url": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/772871/EPRS_BRI(2025)772871_EN.pdf",
+        "favicon": "",
+        "snippet": "The labeling of the 14 most common allergens listed in Annex II of Regulation (EU) No 1169/2011, such as cereals containing gluten, is mandatory for alcoholic beverages even in the absence of a full ingredient list."
+      },
+      {
+        "name": "Alcohol labelling - BRIEFING EPRS | European Parliamentary Research Service",
+        "url": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2021/690563/EPRS_BRI(2021)690563_EN.pdf",
+        "favicon": "",
+        "snippet": "Mandatory particulars for prepackaged foods, including beer, include the net quantity of the food and the name or business name and address of the food business operator."
+      },
+      {
+        "name": "Alcohol labelling: State of play - European Parliament",
+        "url": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/772871/EPRS_BRI(2025)772871_EN.pdf",
+        "favicon": "",
+        "snippet": "Beverages containing more than 10% alcohol by volume are exempt from the requirement to indicate a date of minimum durability; beers below this threshold must provide it."
+      },
+      {
+        "name": "Alcohol labelling - Food Safety - European Commission",
+        "url": "https://food.ec.europa.eu/food-safety/labelling-and-nutrition/food-information-consumers-legislation/alcohol-labelling_en",
+        "favicon": "",
+        "snippet": "The Brewers of Europe signed a Memorandum of Understanding in September 2019 committing to voluntarily label ingredients and energy values on all beer bottles and cans in the EU by 2022."
+      },
+      {
+        "name": "Alcohol labelling: State of play - European Parliament",
+        "url": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/772871/EPRS_BRI(2025)772871_EN.pdf",
+        "favicon": "",
+        "snippet": "As of June 2026, while mandatory ingredient lists and nutrition declarations have been implemented for wine, other alcoholic beverages above 1.2% ABV (including beer) remain exempt from these standard EU requirements."
+      },
+      {
+        "name": "Alcohol labelling: State of play - European Parliament",
+        "url": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/772871/EPRS_BRI(2025)772871_EN.pdf",
+        "favicon": "",
+        "snippet": "Nutrition and health claims on alcoholic beverages containing more than 1.2% ABV are prohibited, with the exception of claims referring to reduced alcohol or energy content."
+      },
+      {
+        "name": "Alcohol labelling - BRIEFING EPRS | European Parliamentary Research Service",
+        "url": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2021/690563/EPRS_BRI(2021)690563_EN.pdf",
+        "favicon": "",
+        "snippet": "If a nutrition declaration is provided voluntarily for an alcoholic beverage, it may be limited to the energy value alone."
+      },
+      {
+        "name": "Alcohol labelling: State of play - European Parliament",
+        "url": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/772871/EPRS_BRI(2025)772871_EN.pdf",
+        "favicon": "",
+        "snippet": "Regulation (EU) 2026/471 introduced harmonized labeling for non-alcoholic (up to 0.5% ABV) and reduced-alcohol wines, but did not extend mandatory health warnings to all alcohol categories."
+      },
+      {
+        "name": "Alcohol labelling: State of play - European Parliament",
+        "url": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/772871/EPRS_BRI(2025)772871_EN.pdf",
+        "favicon": "",
+        "snippet": "Ireland has postponed the implementation of mandatory cancer warnings on alcohol labels until September 2028."
+      },
+      {
+        "name": "C_2008016EN.01001401.xml - EUR-Lex",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A52008XC0123%2803%29",
+        "favicon": "",
+        "snippet": "For beer with a Protected Geographical Indication (PGI), such as '\u010cesk\u00e9 pivo', the production process must be recorded so that the origin of raw materials in each batch can be traced."
+      },
+      {
+        "name": "Alcohol labelling - BRIEFING EPRS | European Parliamentary Research Service",
+        "url": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2021/690563/EPRS_BRI(2021)690563_EN.pdf",
+        "favicon": "",
+        "snippet": "Article 41 of Regulation (EU) No 1169/2011 allows Member States to maintain national measures regarding the listing of ingredients for alcoholic beverages until harmonized EU rules are adopted."
+      },
+      {
+        "name": "Language and presentation of food information - Food Safety",
+        "url": "https://food.ec.europa.eu/food-safety/labelling-and-nutrition/food-information-consumers-legislation/language-and-presentation-food-information_en",
+        "favicon": "",
+        "snippet": "Article 15 of Regulation (EU) No 1169/2011 (FIC) stipulates that mandatory food information must appear in a language easily understood by the consumers of the Member States where a food is marketed."
+      },
+      {
+        "name": "EUR-Lex - 02011R1169-20250401 - EN - EUR-Lex",
+        "url": "https://eur-lex.europa.eu/eli/reg/2011/1169/2025-04-01/eng",
+        "favicon": "",
+        "snippet": "Member States may stipulate that mandatory food information particulars be given in one or more languages from among the official languages of the Union within their own territory."
+      },
+      {
+        "name": "L_2011304EN.01001801.xml - EUR-Lex - European Union",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32011R1169",
+        "favicon": "",
+        "snippet": "The FIC Regulation does not preclude mandatory particulars from being indicated in several languages simultaneously on the same label."
+      },
+      {
+        "name": "Germany | TTB: Alcohol and Tobacco Tax and Trade Bureau",
+        "url": "https://www.ttb.gov/itd/international-affairs-resources-for-germany",
+        "favicon": "",
+        "snippet": "For imports into Germany, allergen information must appear in German, while other mandatory labeling requirements may appear in one or more official languages of the EU."
+      },
+      {
+        "name": "France | TTB: Alcohol and Tobacco Tax and Trade Bureau",
+        "url": "https://www.ttb.gov/import-export/itd/international-affairs-resources-for-france",
+        "favicon": "",
+        "snippet": "For imports into France, allergen information must appear in either French or English, while other requirements can be in any official EU language."
+      },
+      {
+        "name": "International Affairs Resources for the Netherlands | TTB: Alcohol and Tobacco Tax and Trade Bureau",
+        "url": "https://www.ttb.gov/import-export/itd/international-affairs-resources-for-the-netherlands",
+        "favicon": "",
+        "snippet": "For imports into the Netherlands, allergen information must be provided in Dutch."
+      },
+      {
+        "name": "International Affairs Resources for Belgium | TTB: Alcohol and Tobacco Tax and Trade Bureau",
+        "url": "https://www.ttb.gov/import-export/itd/international-affairs-resources-for-belgium",
+        "favicon": "",
+        "snippet": "For imports into Belgium, allergen information must appear in Dutch, French, German, or English."
+      },
+      {
+        "name": "Portugal | TTB: Alcohol and Tobacco Tax and Trade Bureau",
+        "url": "https://www.ttb.gov/import-export/itd/international-affairs-resources-for-portugal",
+        "favicon": "",
+        "snippet": "For imports into Portugal, allergen information must appear in Portuguese, English, French, or Spanish."
+      },
+      {
+        "name": "Spain | TTB: Alcohol and Tobacco Tax and Trade Bureau",
+        "url": "https://www.ttb.gov/import-export/itd/international-affairs-resources-for-spain",
+        "favicon": "",
+        "snippet": "For imports into Spain, allergen information must appear in Spanish, English, French, Italian, or Portuguese."
+      },
+      {
+        "name": "Digital labelling - Comit\u00e9 Europ\u00e9en des Entreprises Vins",
+        "url": "https://www.ceev.eu/projects/digital-labelling",
+        "favicon": "",
+        "snippet": "Alcoholic beverages containing more than 1.2% alcohol by volume are exempt from the mandatory list of ingredients and nutrition declaration under the general FIC Regulation."
+      },
+      {
+        "name": "Buyerdock has the solution for new EU label rules for wine products",
+        "url": "https://buyerdock.com/buyerdock-has-the-solution-for-new-eu-label-rules-for-wine-products/",
+        "favicon": "",
+        "snippet": "As of December 2023, wine and aromatised wine products must provide a list of ingredients and a nutrition declaration, which may be provided via electronic labels (e-labels) such as QR codes."
+      },
+      {
+        "name": "Buyerdock has the solution for new EU label rules for wine products",
+        "url": "https://buyerdock.com/buyerdock-has-the-solution-for-new-eu-label-rules-for-wine-products/",
+        "favicon": "",
+        "snippet": "When using electronic labels for wine, the listing of ingredients causing allergies and intolerances must still remain on the physical label."
+      },
+      {
+        "name": "Labelling of foodstuffs | EUR-Lex - European Union",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=legissum:co0019",
+        "favicon": "",
+        "snippet": "If a food manufacturer is based outside the EU, the responsibility for providing accurate food information lies with the importer."
+      },
+      {
+        "name": "Food Labelling: All Rules and Mandatory Information Under EU 1169/2011",
+        "url": "https://www.eclarion.com/en/support/resources/food-labelling-regulations-eu-1169/",
+        "favicon": "",
+        "snippet": "Mandatory food information must be printed in a font size where the x-height is equal to or greater than 1.2 mm, or 0.9 mm for packages with a surface area smaller than 80 cm\u00b2."
+      },
+      {
+        "name": "EU-28 Food and Agricultural Import Regulations and Standards Report",
+        "url": "https://apps.fas.usda.gov/newgainapi/api/report/downloadreportbyfilename?filename=Food+and+Agricultural+Import+Regulations+and+Standards+Report_Brussels+USEU_EU-28_2-12-2019.pdf",
+        "favicon": "",
+        "snippet": "The use of stickers for mandatory labeling is generally permitted provided they are not easily removable, though specific Member State rules may vary."
+      },
+      {
+        "name": "Food Contact Materials - Food Safety - European Commission",
+        "url": "https://food.ec.europa.eu/food-safety/chemical-safety/food-contact-materials_en",
+        "favicon": "",
+        "snippet": "Regulation (EC) No 1935/2004 is the framework regulation for all food contact materials (FCMs) in the EU, requiring that they do not transfer constituents to food in quantities that endanger human health, unacceptably change food composition, or deteriorate organoleptic characteristics."
+      },
+      {
+        "name": "Legislation - Food Safety - European Commission",
+        "url": "https://food.ec.europa.eu/food-safety/chemical-safety/food-contact-materials/legislation_en",
+        "favicon": "",
+        "snippet": "Commission Regulation (EC) No 2023/2006 (GMP Regulation) mandates that all FCMs be manufactured according to Good Manufacturing Practices, including the establishment of quality assurance and quality control systems."
+      },
+      {
+        "name": "Food Contact Materials - Regulation (EC) 1935/2004",
+        "url": "https://www.europarl.europa.eu/RegData/etudes/STUD/2016/581411/EPRS_STU(2016)581411_EN.pdf",
+        "favicon": "",
+        "snippet": "Glass, adhesives, and printing inks are three of the 17 groups of materials listed in Annex I to Regulation (EC) No 1935/2004 for which specific measures may be adopted."
+      },
+      {
+        "name": "Food Contact Materials - Regulation (EC) 1935/2004 | Think Tank | European Parliament",
+        "url": "https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2016)581411",
+        "favicon": "",
+        "snippet": "Specific EU-wide harmonized safety requirements have not yet been adopted for glass, printing inks, or adhesives; these materials currently rely on general framework rules or national legislation."
+      },
+      {
+        "name": "EU Guidance on BPA and Other Bisphenols Ban in Food-Contact Materials",
+        "url": "https://www.packaginglaw.com/news/eu-guidance-bpa-and-other-bisphenols-ban-food-contact-materials",
+        "favicon": "",
+        "snippet": "Commission Regulation (EU) 2024/3190, effective January 20, 2025, prohibits the use of Bisphenol A (BPA) and its salts in the manufacture of food contact adhesives and printing inks, with single-use items required to comply by July 20, 2026."
+      },
+      {
+        "name": "Revision of EU rules on FCMs - Food Safety - European Union",
+        "url": "https://food.ec.europa.eu/food-safety/chemical-safety/food-contact-materials/revision-eu-rules_en",
+        "favicon": "",
+        "snippet": "The European Commission has initiated action to lower migration limits for lead and cadmium and introduce new limits for aluminium, arsenic, barium, cobalt, chromium, and nickel from vitreous materials, including glass."
+      },
+      {
+        "name": "Printing inks and adhesive chemicals detected in a wide variety of foods | Food Packaging Forum",
+        "url": "https://foodpackagingforum.org/news/printing-inks-and-adhesive-chemicals-detected-in-a-wide-variety-of-foods",
+        "favicon": "",
+        "snippet": "Germany has reintroduced a national Printing Ink Ordinance (21st Amendment to the Consumer Goods Ordinance) which includes a positive list of approximately 600 chemicals and a phase-in period until December 2026."
+      },
+      {
+        "name": "Printing inks and adhesive chemicals detected in a wide variety of foods | Food Packaging Forum",
+        "url": "https://foodpackagingforum.org/news/printing-inks-and-adhesive-chemicals-detected-in-a-wide-variety-of-foods",
+        "favicon": "",
+        "snippet": "Switzerland is currently the only European country with specific national legislation for printing inks, maintaining a positive list that included 5,355 substances as of January 1, 2025."
+      },
+      {
+        "name": "Food contact materials in the EU: State of play",
+        "url": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2026/782669/EPRS_BRI(2026)782669_EN.pdf",
+        "favicon": "",
+        "snippet": "Regulation (EC) No 1935/2004 requires that FCMs not yet in contact with food be accompanied by the words 'for food contact', a specific indication of use (e.g., 'wine bottle'), or the wine glass and fork symbol."
+      },
+      {
+        "name": "EU Introduces Stricter Regulations On Plastic Food Contact Materials | Foresight",
+        "url": "https://www.useforesight.io/news/eu-introduces-stricter-regulations-on-plastic-food-contact-materials",
+        "favicon": "",
+        "snippet": "Regulation (EU) 2025/351, effective March 24, 2025, introduces stricter migration limits and requires manufacturers of multi-layer plastic materials to ensure compliance when using adhesives or printing inks."
+      },
+      {
+        "name": "Regulation - 2023/2006 - EN - EUR-Lex",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32006R2023",
+        "favicon": "",
+        "snippet": "The GMP Regulation (EC) No 2023/2006 includes specific rules for processes involving the application of printing inks to the non-food contact side of a material or article."
+      },
+      {
+        "name": "Packaging - Food Safety - European Commission",
+        "url": "https://food.ec.europa.eu/food-safety/campaign-2026/packaging_en",
+        "favicon": "",
+        "snippet": "EU law requires all food packaging materials to be fully traceable throughout their lifecycle, from production to manufacturing, distribution, and sale."
+      },
+      {
+        "name": "EuPIA Guideline on Printing Inks applied to Food Contact Materials April 2020",
+        "url": "https://www.eupia.org/wp-content/uploads/2023/06/2023-05-18_EuPIA-Guideline-on-Printing-Inks-applied-to-Food-Contact-Materials.pdf",
+        "favicon": "",
+        "snippet": "The European Printing Ink Association (EuPIA) provides industry guidelines and a GMP for printing inks applied to FCMs to assist in controlling food safety hazards."
+      },
+      {
+        "name": "Printing inks and adhesive chemicals detected in a wide variety of foods | Food Packaging Forum",
+        "url": "https://foodpackagingforum.org/news/printing-inks-and-adhesive-chemicals-detected-in-a-wide-variety-of-foods",
+        "favicon": "",
+        "snippet": "Phthalates have been identified as substances that can migrate from adhesive labels into fruits and vegetables."
+      },
+      {
+        "name": "Food contact materials in the EU: State of play",
+        "url": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2026/782669/EPRS_BRI(2026)782669_EN.pdf",
+        "favicon": "",
+        "snippet": "The Packaging and Packaging Waste Regulation (PPWR), effective February 2025, includes a ban on PFAS in food contact packaging applicable from August 12, 2026."
+      },
+      {
+        "name": "C(2026)3702 - EN - EUR-Lex - European Union",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=intcom%3AC%282026%293702",
+        "favicon": "",
+        "snippet": "Under the Packaging and Packaging Waste Regulation (PPWR), a 'producer' is defined as the manufacturer, importer, or distributor who first makes packaging or packaged products available on the territory of a Member State."
+      },
+      {
+        "name": "PPWR Requirements 2026 \u2014 EU Directive Packaging Law, EPR Registration and Full Compliance Guide - Lovat Compliance",
+        "url": "https://vatcompliance.co/blog/ppwr-requirements-2026-eu-directive-packaging-law-epr-registration-and-full-compliance-guide/",
+        "favicon": "",
+        "snippet": "Producers must register with relevant national authorities in every Member State where they sell goods and pay Extended Producer Responsibility (EPR) fees in the state where the packaging is expected to become waste."
+      },
+      {
+        "name": "EPR Compliance in the EU: 2026 Guide | Complir",
+        "url": "https://www.complir.io/resources/guides/extended-producer-responsibility-eu-guide",
+        "favicon": "",
+        "snippet": "Non-EU companies placing products on the EU market are generally required to appoint an Authorized Representative (AR) in each Member State to handle EPR registration and compliance duties."
+      },
+      {
+        "name": "Deposit Return Schemes: what drinks businesses and retailers need to know - Clarke Willmott LLP",
+        "url": "https://www.clarkewillmott.com/views/deposit-return-schemes-what-drinks-businesses-and-retailers-need-to-know-102mie5/",
+        "favicon": "",
+        "snippet": "The PPWR mandates that by January 1, 2029, all Member States must establish a Deposit-Return Scheme (DRS) for single-use plastic beverage bottles and metal beverage containers up to 3 liters."
+      },
+      {
+        "name": "European Commission calls for mandatory Deposit and Return systems in Member States | DWF Group",
+        "url": "https://dwfgroup.com/en/news-and-insights/insights/2023/2/european-commission-calls-for-mandatory-deposit-and-return-systems-in-member-states",
+        "favicon": "",
+        "snippet": "While the PPWR mandates DRS for plastic and metal, it only requires Member States to 'endeavour' to establish and maintain DRS for glass packaging."
+      },
+      {
+        "name": "Overview and results of Deposit Return Schemes in Europe",
+        "url": "https://www.sensoneo.com/waste-library/deposit-return-schemes-overview-europe/",
+        "favicon": "",
+        "snippet": "Germany's existing DRS includes glass bottles, with deposit values (pfand) set at \u20ac0.08 and \u20ac0.15, which are lower than the \u20ac0.25 deposit for PET bottles."
+      },
+      {
+        "name": "Which Countries Have Deposit Return Schemes in 2026? | TOMRA",
+        "url": "https://www.tomra.com/reverse-vending/deposit-return-schemes-faq/which-countries-have-deposit-return-scheme",
+        "favicon": "",
+        "snippet": "Poland's DRS, expected to be fully operational in 2026, will include reusable glass bottles up to 1.5 liters with a deposit value of 1 PLN."
+      },
+      {
+        "name": "Race towards Deposit Return Systems | Fair Resource Foundation",
+        "url": "https://fairresourcefoundation.org/en/race-towards-deposit-return-systems/",
+        "favicon": "",
+        "snippet": "Belgium currently maintains a deposit system on some reusable glass bottles, specifically for beer."
+      },
+      {
+        "name": "Container-deposit legislation - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Container-deposit_legislation",
+        "favicon": "",
+        "snippet": "Wales intends to include glass bottles in its national DRS, creating a divergence from England, Scotland, and Northern Ireland which plan to exclude glass."
+      },
+      {
+        "name": "Regulation - EU - 2025/40 - EN - PPWR - EUR-Lex",
+        "url": "https://eur-lex.europa.eu/eli/reg/2025/40/oj/eng",
+        "favicon": "",
+        "snippet": "The PPWR bans physical labels for EPR and allows such information to be provided only in a digital format, such as a QR code, to indicate that a producer fulfills its obligations."
+      },
+      {
+        "name": "Packaging and packaging waste (from 2026) | EUR-Lex",
+        "url": "https://eur-lex.europa.eu/EN/legal-content/summary/packaging-and-packaging-waste-from-2026.html",
+        "favicon": "",
+        "snippet": "By 2030, beverage distributors must ensure that at least 10% of their products are made available in reusable packaging, a target that rises to 40% by 2040."
+      },
+      {
+        "name": "What the Packaging & Packaging Waste Regulation means for deposit return schemes",
+        "url": "https://www.tomra.com/reverse-vending/media-center/feature-articles/packaging-waste-regulation-ppwr-deposit-return-schemes",
+        "favicon": "",
+        "snippet": "Member States may be exempted from the 2029 DRS mandate if they achieve a separate collection rate of at least 80% for the relevant packaging formats by 2026."
+      },
+      {
+        "name": "Portugal launches its Deposit Return System ahead of the new EU packaging rules - Zero Waste Europe",
+        "url": "https://zerowasteeurope.eu/2026/05/portugal-launches-its-deposit-return-system-ahead-of-the-new-eu-packaging-rules/",
+        "favicon": "",
+        "snippet": "As of April 2026, 19 European countries have operational Deposit-Return Schemes."
+      },
+      {
+        "name": "EPR Compliance in the EU: 2026 Guide | Complir",
+        "url": "https://www.complir.io/resources/guides/extended-producer-responsibility-eu-guide",
+        "favicon": "",
+        "snippet": "EPR fees must be eco-modulated, meaning packaging that is difficult to recycle will attract higher fees while compliant, sustainable designs receive reduced fees."
+      },
+      {
+        "name": "EN EN EUROPEAN COMMISSION Brussels, 30.3.2026 C(2026) 2151 final ANNEX ANNEX",
+        "url": "https://environment.ec.europa.eu/document/download/3d59ca88-539c-4b6b-a623-0f61068e853e_en?filename=Annex+to+the+Communication+to+the+Commission.pdf",
+        "favicon": "",
+        "snippet": "The PPWR entered into force on February 11, 2025, and its requirements will generally apply from August 12, 2026."
+      },
+      {
+        "name": "Border Rejections Reported in the Rapid Alert System for Food and Feed (RASFF) in 2008\u20132023: Identification of Hazards and Overview of Their Potential Health Implications",
+        "url": "https://www.mdpi.com/2071-1050/17/7/2923",
+        "favicon": "",
+        "snippet": "Border rejections accounted for 38.7% of all notifications submitted to the Rapid Alert System for Food and Feed (RASFF) between 2008 and 2023."
+      },
+      {
+        "name": "Food Labeling Requirements & Testing in the EU | Measurlabs",
+        "url": "https://measurlabs.com/blog/food-labeling-requirements-and-testing-in-europe/",
+        "favicon": "",
+        "snippet": "Beverages containing more than 1.2% alcohol by volume (ABV) are currently exempt from the mandatory listing of ingredients and nutrition declarations under EU Regulation 1169/2011 (FIC), though they must label actual alcoholic strength."
+      },
+      {
+        "name": "How EU labelling exemptions for alcohol are coming to an end - Lexology",
+        "url": "https://www.lexology.com/library/detail.aspx?g=5cbd09b2-5671-4b62-acc7-1acf4767dc4c",
+        "favicon": "",
+        "snippet": "Germany maintains national measures requiring pre-packaged beer to be labelled with a list of ingredients, despite the general EU exemption for alcoholic beverages."
+      },
+      {
+        "name": "Nutrition and ingredient labelling in the EU alcohol sector: the strange mix of mandatory and voluntary initiatives",
+        "url": "https://www.beveragedaily.com/Article/2023/12/07/Nutrition-and-ingredient-labelling-in-the-EU-alcohol-sector-the-strange-mix-of-mandatory-and-voluntary-initiatives/",
+        "favicon": "",
+        "snippet": "By 2022, voluntary initiatives in the beer sector resulted in 95% of beer volumes sold in the EU including a list of ingredients and 88% labelling energy values."
+      },
+      {
+        "name": "Food Safety in Europe: 2022 Annual Report of the Alert and Cooperation Network (RASFF, AAC and FFN) - M\u00e9rieux NutriSciences",
+        "url": "https://www.merieuxnutrisciences.com/food-safety-europe-2022-annual-report/",
+        "favicon": "",
+        "snippet": "In 2022, RASFF transmitted 219 notifications concerning Food Contact Materials (FCMs), with 105 relating to the migration of substances, primarily aromatic amines (38), formaldehyde (13), and lead (10)."
+      },
+      {
+        "name": "Serious Notifications on Food Contact Materials in the EU RASFF - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8065728/",
+        "favicon": "",
+        "snippet": "China was the main transgressor country for both serious alert and border rejection notifications regarding Food Contact Materials (FCM) between 2012 and 2019."
+      },
+      {
+        "name": "Low and no alcohol beer in the EU: status and legal challenges \u2014 Food Compliance International",
+        "url": "https://foodcomplianceinternational.com/industry-insight/scholarly-articles/3255-low-and-no-alcohol-beer-in-the-eu-status-and-legal-challenges",
+        "favicon": "",
+        "snippet": "Non-alcoholic beer with an alcoholic strength lower than 0.5% ABV must comply with the full labelling rules of the Food Information to Consumers (FIC) Regulation 1169/2011."
+      },
+      {
+        "name": "Report Name: Food and Agricultural Import Regulations and Standards Country Report_Brussels USEU_European Union_E42022-0063",
+        "url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Food+and+Agricultural+Import+Regulations+and+Standards+Country+Report_Brussels+USEU_European+Union_E42022-0063",
+        "favicon": "",
+        "snippet": "Alcohol labels must be provided in a language easily understood by consumers, which is generally interpreted as the official language(s) of the Member State where the food is marketed."
+      },
+      {
+        "name": "Assessment of Arsenic, Vanadium, Mercury, and Cadmium in Food and Drug Packaging - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11109717/",
+        "favicon": "",
+        "snippet": "Vanadium is used as a catalyst in the production of ethylene oxide and as an additive in glass coating and lacquering for aluminum cans to provide tensile strength."
+      },
+      {
+        "name": "Importing European Alcohol: A Comprehensive Guide For International Buyers | CyAlcohol",
+        "url": "https://cyalcohol.com/article/how-to-import-alcohol-from-europe",
+        "favicon": "",
+        "snippet": "Health certificates for imported alcohol may be required to declare compliance with heavy metal limits, such as lead levels below 0.1 mg/L."
+      },
+      {
+        "name": "Food Safety and Compliance: Why Our Glass Packaging Meets the Highest Standards - Pattesons",
+        "url": "https://pattesonsglass.co.uk/news-events/food-safety-and-compliance-why-our-glass-packaging-meets-the-highest-standards/",
+        "favicon": "",
+        "snippet": "Glass packaging offers superior protection against chemical migration compared to plastic; research found 1,975 chemicals migrating from plastic packaging versus only 47 from glass and ceramic materials."
+      },
+      {
+        "name": "Serious Notifications on Food Contact Materials in the EU RASFF - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8065728/",
+        "favicon": "",
+        "snippet": "Migration of primary aromatic amines and metals were the most frequently notified hazards for Food Contact Materials in the RASFF between 2012 and 2019."
+      },
+      {
+        "name": "PPWR Compliance Guide 2026: What Changes 12 August",
+        "url": "https://informait.com/news/ppwr-compliance-guide-2026",
+        "favicon": "",
+        "snippet": "The Packaging and Packaging Waste Regulation (PPWR) - Regulation (EU) 2025/40 - enters into force on 11 February 2025 and applies in full from 12 August 2026."
+      },
+      {
+        "name": "Why we still need to fix the PPWR - The Brewers of Europe",
+        "url": "https://brewersofeurope.eu/why-we-still-need-to-fix-the-ppwr/",
+        "favicon": "",
+        "snippet": "The Brewers of Europe have criticized the PPWR for containing discriminatory measures and 'preferential treatment' for some alcohol sectors, which they argue undermines the principles of a free and fair Single Market."
+      },
+      {
+        "name": "EU: Brewers Urge Clarity On Packaging Rules Impacting Industry | inside.beer - International beverage news from Munich",
+        "url": "https://www.inside.beer/news/detail/eu-brewers-urge-clarity-on-packaging-rules-impacting-industry",
+        "favicon": "",
+        "snippet": "Brewers face significant uncertainty regarding the treatment of plastic grouped packaging and the absence of clear criteria for exemptions from reuse targets."
+      },
+      {
+        "name": "Brewers of Europe call for urgent clarification on EU packaging rules following Commission communication | The Brewers of Europe",
+        "url": "https://brewersofeurope.eu/brewers-of-europe-call-for-urgent-clarification-on-ppwr/",
+        "favicon": "",
+        "snippet": "The industry warns that a lack of clarity on reuse targets risks the premature withdrawal of reusable assets, such as crates, which could weaken existing deposit-return systems."
+      },
+      {
+        "name": "EU: Brewers Urge Clarity On Packaging Rules Impacting Industry | inside.beer - International beverage news from Munich",
+        "url": "https://www.inside.beer/news/detail/eu-brewers-urge-clarity-on-packaging-rules-impacting-industry",
+        "favicon": "",
+        "snippet": "Compliance with PPWR requires significant investments in production and logistics systems, and delayed guidance could lead to misaligned investments that harm business performance."
+      },
+      {
+        "name": "What the industry thinks as CEOs appeal to clarify and push back PPWR rules | Article | Packaging Europe",
+        "url": "https://packagingeurope.com/news/what-the-industry-thinks-as-ceos-appeal-to-clarify-and-push-back-ppwr-rules/14234.article",
+        "favicon": "",
+        "snippet": "There is no grace period for placing non-compliant packaging on the market after 12 August 2026, leading to industry concerns that existing stocks across the value chain will become non-compliant waste."
+      },
+      {
+        "name": "New EU guidance on PPWR released less than 5 months from start date | Packaging Dive",
+        "url": "https://www.packagingdive.com/news/eu-ppwr-guidance-document/816121/",
+        "favicon": "",
+        "snippet": "As of 12 August 2026, the PPWR will prohibit per- and polyfluoroalkyl substances (PFAS) in food-contact packaging."
+      },
+      {
+        "name": "New EU guidance on PPWR released less than 5 months from start date | Packaging Dive",
+        "url": "https://www.packagingdive.com/news/eu-ppwr-guidance-document/816121/",
+        "favicon": "",
+        "snippet": "The regulation mandates a maximum of 50% extra space for grouped, transport, and e-commerce packaging to reduce excessive packaging volume."
+      },
+      {
+        "name": "European Commission Issues Guidance on E.U. Packaging Rules Before 2026 Deadline",
+        "url": "https://www.vinetur.com/en/20260611102485/european-commission-issues-guidance-on-eu-packaging-rules-before-2026-deadline.html",
+        "favicon": "",
+        "snippet": "Brewers require clarification on whether reusable beer kegs used in B2B movements count toward reuse targets, as this affects investment decisions in fleet management and washing capacity."
+      },
+      {
+        "name": "EPR fees in Europe: What brands need to know in 2026",
+        "url": "https://www.packa.com/en/post/epr-fees-europe-white-brands-must-know-2026",
+        "favicon": "",
+        "snippet": "PPWR compliance is identified as a major data and supplier engagement challenge, requiring detailed, article-level compliance data that makes manual spreadsheet reporting unreliable."
+      },
+      {
+        "name": "What the new EU packaging regulation means for businesses | A&L Goodbody LLP",
+        "url": "https://www.algoodbody.com/insights-publications/circular-by-design-what-the-new-eu-packaging-regulation-means-for-businesses",
+        "favicon": "",
+        "snippet": "Extended Producer Responsibility (EPR) fees will be modulated based on recyclability performance grades, meaning less recyclable packaging will incur higher financial contributions."
+      },
+      {
+        "name": "EPR: what it means for the alcohol industry",
+        "url": "https://www.thedrinksbusiness.com/2025/03/extended-producer-responsibility-what-it-means-for-the-alcohol-industry/",
+        "favicon": "",
+        "snippet": "Industry experts warn that EPR costs may accelerate the decline in the variety of bottled beers on shelves and increase consumer prices."
+      },
+      {
+        "name": "Simplify Multi-Country EPR Compliance Across the EU - Deutsche Recycling Service GmbH",
+        "url": "https://deutsche-recycling.com/blog/manage-multiple-country-epr-registrations-easily/",
+        "favicon": "",
+        "snippet": "Non-compliance with EPR and packaging regulations can result in fines reaching up to \u20ac200,000 or 4% of annual turnover in some member states."
+      },
+      {
+        "name": "The new EU packaging regulation: Key requirements from August 2026 | Gleiss Lutz",
+        "url": "https://www.gleisslutz.com/en/know-how/new-eu-packaging-regulation-key-requirements-august-2026",
+        "favicon": "",
+        "snippet": "The PPWR introduces a broad definition of 'producer' that includes importers, making them responsible for registration, reporting, and financing waste management."
+      },
+      {
+        "name": "The new EU packaging regulation: Key requirements from August 2026 | Gleiss Lutz",
+        "url": "https://www.gleisslutz.com/en/know-how/new-eu-packaging-regulation-key-requirements-august-2026",
+        "favicon": "",
+        "snippet": "Reusable packaging must bear a specific label informing users of its reusability to clearly differentiate it from single-use packaging."
+      },
+      {
+        "name": "Directive - 2011/91 - EN - EUR-Lex - European Union",
+        "url": "https://eur-lex.europa.eu/eli/dir/2011/91/oj/eng",
+        "favicon": "",
+        "snippet": "Under Directive 2011/91/EU, a foodstuff may not be marketed in the EU unless it is accompanied by an indication that allows identification of the lot to which it belongs."
+      },
+      {
+        "name": "Directive 2011/91/EU of the European Parliament and of the Council of 13 December 2011 on indications or marks identifying the lot to which a foodstuff belongs (codification) (Text with EEA relevance)",
+        "url": "https://www.legislation.gov.uk/eudr/2011/91/body",
+        "favicon": "",
+        "snippet": "A 'lot' is defined as a batch of sales units of a foodstuff produced, manufactured, or packaged under practically the same conditions."
+      },
+      {
+        "name": "Directive 2011/91/EU of the European Parliament and of the Council of 13 December 2011 on indications or marks identifying the lot to which a foodstuff belongs (codification) (Text with EEA relevance)",
+        "url": "https://www.legislation.gov.uk/eudr/2011/91/body",
+        "favicon": "",
+        "snippet": "The lot marking must be determined by the producer, manufacturer, packager, or the first seller established within the European Union."
+      },
+      {
+        "name": "International Affairs Resources for Belgium | TTB: Alcohol and Tobacco Tax and Trade Bureau",
+        "url": "https://ttb.gov/itd/international-affairs-resources-for-belgium",
+        "favicon": "",
+        "snippet": "Lot identification on labels must be preceded by the letter 'L', except where it is clearly distinguishable from other indications."
+      },
+      {
+        "name": "International Affairs Resources for Belgium | TTB: Alcohol and Tobacco Tax and Trade Bureau",
+        "url": "https://ttb.gov/itd/international-affairs-resources-for-belgium",
+        "favicon": "",
+        "snippet": "The lot number is not required to appear in the same field of vision as other mandatory information like the product name and alcoholic strength."
+      },
+      {
+        "name": "Packaging Waste Regulation - EU Environment",
+        "url": "https://environment.ec.europa.eu/topics/waste-and-recycling/packaging-waste/packaging-packaging-waste-regulation_en",
+        "favicon": "",
+        "snippet": "The Packaging and Packaging Waste Regulation (PPWR), Regulation (EU) 2025/40, entered into force on February 11, 2025, and will generally apply from August 12, 2026."
+      },
+      {
+        "name": "PPWR labelling requirements explained: sortability, material and reuse markings",
+        "url": "https://www.coolset.com/academy/ppwr-labelling-requirements-explained-sortability-material-and-reuse-markings",
+        "favicon": "",
+        "snippet": "The PPWR introduces a single harmonized EU labeling system that will replace national schemes, including France's Triman logo and Italy's environmental labeling decree, by August 12, 2028."
+      },
+      {
+        "name": "PPWR labelling requirements explained: sortability, material and reuse markings",
+        "url": "https://www.coolset.com/academy/ppwr-labelling-requirements-explained-sortability-material-and-reuse-markings",
+        "favicon": "",
+        "snippet": "Under PPWR, member states cannot require national labels alongside or instead of harmonized EU labels after August 12, 2028, or within 24 months of the Commission's implementing act entering into force."
+      },
+      {
+        "name": "Triman Logo Dispute \u2013 French EPR Labelling vs. EU Harmo...",
+        "url": "https://www.beyond.ly/educate/news/triman-logo-dispute-french-epr-labelling-vs-eu-harmonisation/",
+        "favicon": "",
+        "snippet": "The European Commission has initiated infringement proceedings against France, arguing that the unilateral Triman logo requirement restricts trade and conflicts with the PPWR's goal of harmonization."
+      },
+      {
+        "name": "2026 is the start of the packaging regulation in the EU",
+        "url": "https://compliance.globalnorm.de/en/globalnorm/newsroom/2026-is-the-start-of-the-packaging-regulation-in-the-eu/",
+        "favicon": "",
+        "snippet": "For very small packaging, the PPWR allows the use of a QR code or other digital data carrier to provide mandatory labeling information instead of physical labels."
+      },
+      {
+        "name": "PPWR Compliance 2026: Guide for Manufacturers & Importers",
+        "url": "https://www.getsunhat.com/hub/ppwr-compliance",
+        "favicon": "",
+        "snippet": "Reusable packaging must carry a QR code or digital data carrier by February 2029 to facilitate tracking, return points, and the calculation of rotations."
+      },
+      {
+        "name": "Packaging labeling in France: 2025 updates & Triman logo rules",
+        "url": "https://vatcompliance.co/blog/packaging-labeling-in-france-2025-updates-triman-logo-rules/",
+        "favicon": "",
+        "snippet": "Current French law (AGEC) requires the Triman logo and sorting instructions to be printed directly on physical packaging; digital-only instructions are currently insufficient for standard-sized packaging."
+      },
+      {
+        "name": "The Complete 2026 Guide to Triman Labeling and EPR Compliance in France",
+        "url": "https://vatcompliance.co/blog/the-complete-2026-guide-to-triman-labeling-and-epr-compliance-in-france/",
+        "favicon": "",
+        "snippet": "In France, if the packaging surface area is less than 10 cm\u00b2 (or 20 cm\u00b2 for cylindrical products), both the Triman logo and sorting instructions can be fully dematerialized (provided digitally)."
+      },
+      {
+        "name": "How to Comply with New EU Labelling Regulation for Wine Products - Ashbury Global",
+        "url": "https://ashbury.global/blog/how-to-comply-with-new-eu-labelling-regulation-for-wine-products/",
+        "favicon": "",
+        "snippet": "While wine producers can now use QR codes for ingredients and nutrition declarations under Regulation (EU) 2021/2117, these digital labeling flexibilities do not currently apply to beer or spirits at the EU level."
+      },
+      {
+        "name": "Alcohol labelling - Food Safety - European Commission",
+        "url": "https://food.ec.europa.eu/food-safety/labelling-and-nutrition/food-information-consumers-legislation/alcohol-labelling_en",
+        "favicon": "",
+        "snippet": "The Brewers of Europe committed to a voluntary initiative to provide ingredient lists and energy values on all beer bottles and cans in the EU by 2022."
+      },
+      {
+        "name": "BMLEH - Food labelling - EU-wide uniform food labelling lmiv-fic",
+        "url": "https://www.bmleh.de/EN/topics/food-and-nutrition/food-labelling/EU-wide-food-labelling-lmiv-fic.html",
+        "favicon": "",
+        "snippet": "Since 1994, beer marketed in Germany must be labeled with a list of ingredients, despite the general European Union exemption that does not require ingredient lists for beverages with an alcohol content exceeding 1.2% by volume."
+      },
+      {
+        "name": "How EU labelling exemptions for alcohol are coming to an end",
+        "url": "https://www.khlaw.com/insights/how-eu-labelling-exemptions-alcohol-are-coming-end",
+        "favicon": "",
+        "snippet": "The requirement for ingredient labeling on beer in Germany is a national measure maintained under the flexibility provided by the EU Food Information to Consumers (FIC) Regulation No. 1169/2011, which allows Member States to regulate the labeling of ingredients for alcoholic beverages."
+      },
+      {
+        "name": "500 Year Anniversary of the Bavarian Beer Purity Law of 1516 (\u201cReinheitsgebot\u201d) | In Custodia Legis",
+        "url": "https://blogs.loc.gov/law/2016/04/500-year-anniversary-of-the-bavarian-beer-purity-law-of-1516-reinheitsgebot/",
+        "favicon": "",
+        "snippet": "The German national requirement for beer ingredient labeling is codified in the Vorl\u00e4ufiges Biergesetz (Provisional Beer Act), specifically Section 9, and the Bierverordnung (Beer Ordinance)."
+      },
+      {
+        "name": "Reinheitsgebot - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Reinheitsgebot",
+        "favicon": "",
+        "snippet": "Following the 1987 European Court of Justice ruling (Case C-178/84), imported beers from other EU member states may be sold as 'beer' in Germany even if they do not adhere to the Reinheitsgebot (Purity Law) standards, provided they were legally produced in their home state."
+      },
+      {
+        "name": "The Reinheitsgebot - One Country's Interpretation of Quality Beer \u2013 MoreBeer!",
+        "url": "https://www.morebeer.com/articles/Reinheitsgebot_Brewing_Germany_Purity_Law_Bavaria_1516_Malt_Barley_Water_Hops_Yeast",
+        "favicon": "",
+        "snippet": "Imported beers that do not conform to the German Reinheitsgebot are required to list all nonconforming ingredients on their labels when sold in Germany."
+      },
+      {
+        "name": "Germany | TTB: Alcohol and Tobacco Tax and Trade Bureau",
+        "url": "https://www.ttb.gov/itd/international-affairs-resources-for-germany",
+        "favicon": "",
+        "snippet": "The list of ingredients on beer labels in Germany must be preceded by the word 'Ingredients' (or 'Zutaten') and must show all ingredients, including additives, in descending order of weight as recorded at the time of manufacture."
+      },
+      {
+        "name": "Germany | TTB: Alcohol and Tobacco Tax and Trade Bureau",
+        "url": "https://www.ttb.gov/itd/international-affairs-resources-for-germany",
+        "favicon": "",
+        "snippet": "Allergen information on beer labels in Germany must appear in the German language, even if other mandatory particulars appear in other official EU languages."
+      },
+      {
+        "name": "Germany: Brewers ask for nutritional labelling on beer | inside.beer",
+        "url": "https://www.inside.beer/news/detail/germany-brewers-ask-for-nutritional-labelling-on-beer/",
+        "favicon": "",
+        "snippet": "The German Brewers' Association (DBB) and the Association of Private Breweries in Germany recommend that their member breweries voluntarily label all beers and mixed beer beverages with their calorific value (energy content)."
+      },
+      {
+        "name": "500 Year Anniversary of the Bavarian Beer Purity Law of 1516 (\u201cReinheitsgebot\u201d) | In Custodia Legis",
+        "url": "https://blogs.loc.gov/law/2016/04/500-year-anniversary-of-the-bavarian-beer-purity-law-of-1516-reinheitsgebot/",
+        "favicon": "",
+        "snippet": "The 1993 reform of the Vorl\u00e4ufiges Biergesetz allows for exemptions to be granted for the manufacture of 'specialty beers' that require additional ingredients beyond the standard malt, hops, yeast, and water."
+      },
+      {
+        "name": "Alcohol labelling - Food Safety - European Commission",
+        "url": "https://food.ec.europa.eu/food-safety/labelling-and-nutrition/food-information-consumers-legislation/alcohol-labelling_en",
+        "favicon": "",
+        "snippet": "The Brewers of Europe signed a Memorandum of Understanding in 2019 committing to labeling ingredients and energy values on all beer bottles and cans in the EU by 2022, which aligns with Germany's existing national requirements."
+      },
+      {
+        "name": "EU packaging regulation 2025/40 PPWR: what does it mean for e-commerce?",
+        "url": "https://www.ecosistant.eu/en/eu-packaging-regulation-e-commerce/",
+        "favicon": "",
+        "snippet": "Under the Packaging and Packaging Waste Regulation (PPWR), non-EU producers who make packaging or packaged products available in a Member State for the first time must appoint an Authorized Representative (AR) for Extended Producer Responsibility (EPR) by written mandate."
+      },
+      {
+        "name": "Extended Producer Responsibility (EPR): Complete Guide for Ecommerce Brands in Europe",
+        "url": "https://lappa.org/articles/extended-producer-responsibility-ecommerce-eu",
+        "favicon": "",
+        "snippet": "The obligation to appoint an Authorized Representative for EPR applies to any producer not established in the Member State where they make packaging available, requiring a separate AR in each Member State of sale."
+      },
+      {
+        "name": "EPR Registration EU \u2013 WEEE, Packaging & Battery | Expert Support",
+        "url": "https://register-epr.com/",
+        "favicon": "",
+        "snippet": "The Authorized Representative assumes legal responsibility for fulfilling the producer's EPR obligations, including registration in national registers, quantity reporting, and payment of recycling fees."
+      },
+      {
+        "name": "Get ready for the EU\u2019s packaging regulation: PPWR Requirements that are effective from August",
+        "url": "https://www.intertek.com/products-retail/insight-bulletins/2026/1536-eu-ppwr-requirements-effective-from-august/",
+        "favicon": "",
+        "snippet": "The general application of PPWR obligations, including the mandatory appointment of Authorized Representatives for non-EU producers, begins on August 12, 2026."
+      },
+      {
+        "name": "New EU Packaging Regulation (PPWR) \u2013 briefly explained",
+        "url": "https://mdss.com/new-eu-packaging-regulation-ppwr-briefly-explained/",
+        "favicon": "",
+        "snippet": "The Authorized Representative must be a natural or legal person established within the Union (specifically within the Member State where the producer's products are sold)."
+      },
+      {
+        "name": "EPR Authorized Representative in the EU: Guide for Packaging, WEEE and Batteries",
+        "url": "https://www.ecosistant.eu/en/epr-authorized-representative-guide",
+        "favicon": "",
+        "snippet": "Non-EU producers are explicitly excluded from a proposed European Commission suspension of AR obligations that may apply to EU-based companies until 2035; third-country producers must still appoint ARs."
+      },
+      {
+        "name": "EPR Compliance in Europe 2026 for Marketplaces and Online Sellers - Lappa",
+        "url": "https://lappa.org/blog/epr/epr-compliance-in-europe-2026-for-marketplaces-and-online-sellers-2/",
+        "favicon": "",
+        "snippet": "The Authorized Representative's contact details must appear on the packaging of the products from August 2026."
+      },
+      {
+        "name": "EPR Compliance in Europe 2026 for Marketplaces and Online Sellers - Lovat Compliance",
+        "url": "https://vatcompliance.co/blog/epr-compliance-in-europe-2026-for-marketplaces-and-online-sellers/",
+        "favicon": "",
+        "snippet": "The registration process requires producers (or their ARs) to register with national competent authorities or Producer Responsibility Organizations (PROs) in each Member State, such as LUCID in Germany or ADEME in France."
+      },
+      {
+        "name": "New EU Packaging Regulation (PPWR) \u2013 briefly explained",
+        "url": "https://mdss.com/new-eu-packaging-regulation-ppwr-briefly-explained/",
+        "favicon": "",
+        "snippet": "Authorized Representatives are responsible for ensuring the availability of technical documentation and the EU Declaration of Conformity for market surveillance authorities."
+      },
+      {
+        "name": "PPWR Requirements 2026 \u2014 EU Directive Packaging Law, EPR Registration and Full Compliance Guide - Lovat Compliance",
+        "url": "https://vatcompliance.co/blog/ppwr-requirements-2026-eu-directive-packaging-law-epr-registration-and-full-compliance-guide/",
+        "favicon": "",
+        "snippet": "Producers can potentially extend the mandate of an existing Authorized Representative appointed under the General Product Safety Regulation (GPSR) to cover PPWR duties, provided there is written confirmation of the expanded scope."
+      },
+      {
+        "name": "PPWR Requirements 2026 \u2014 EU Directive Packaging Law, EPR Registration and Full Compliance Guide - Lovat Compliance",
+        "url": "https://vatcompliance.co/blog/ppwr-requirements-2026-eu-directive-packaging-law-epr-registration-and-full-compliance-guide/",
+        "favicon": "",
+        "snippet": "Failure to appoint an Authorized Representative by the August 12, 2026 deadline can result in sales bans, product withdrawals, and financial penalties of up to \u20ac200,000 in certain jurisdictions."
+      },
+      {
+        "name": "PPWR Requirements 2026 \u2014 EU Directive Packaging Law, EPR Registration and Full Compliance Guide - Lovat Compliance",
+        "url": "https://vatcompliance.co/blog/ppwr-requirements-2026-eu-directive-packaging-law-epr-registration-and-full-compliance-guide/",
+        "favicon": "",
+        "snippet": "Online marketplaces are legally required to verify that non-EU sellers have a valid EPR registration and an appointed Authorized Representative before allowing them to sell on their platforms."
+      },
+      {
+        "name": "PPWR Declaration of Conformity: what it is, when you need it and how to get it from suppliers",
+        "url": "https://www.coolset.com/academy/ppwr-declaration-of-conformity",
+        "favicon": "",
+        "snippet": "The AR must maintain technical documentation and the Declaration of Conformity for 5 years for single-use packaging and 10 years for reusable packaging after it has been placed on the market."
+      },
+      {
+        "name": "Get ready for the EU\u2019s packaging regulation: PPWR Requirements that are effective from August",
+        "url": "https://www.intertek.com/products-retail/insight-bulletins/2026/1536-eu-ppwr-requirements-effective-from-august/",
+        "favicon": "",
+        "snippet": "The Packaging and Packaging Waste Regulation (PPWR), formally Regulation (EU) 2025/40, entered into force on February 11, 2025, and its general application date is August 12, 2026."
+      },
+      {
+        "name": "Get ready for the EU\u2019s packaging regulation: PPWR Requirements that are effective from August",
+        "url": "https://www.intertek.com/products-retail/insight-bulletins/2026/1536-eu-ppwr-requirements-effective-from-august/",
+        "favicon": "",
+        "snippet": "Starting August 12, 2026, packaging must bear the name, registered trade name or trademark, and a postal address for both the manufacturer and, where applicable, the importer to ensure traceability and accountability."
+      },
+      {
+        "name": "PPWR Requirements 2026 \u2014 EU Directive Packaging Law, EPR Registration and Full Compliance Guide - Lovat Compliance",
+        "url": "https://vatcompliance.co/blog/ppwr-requirements-2026-eu-directive-packaging-law-epr-registration-and-full-compliance-guide/",
+        "favicon": "",
+        "snippet": "For businesses based outside the EU, product labels must include the contact information of the Authorized Representative (AR) hired to handle compliance duties."
+      },
+      {
+        "name": "PPWR authorised representative: obligations for non-EU companies selling into the EU",
+        "url": "https://www.coolset.com/academy/ppwr-authorised-representative",
+        "favicon": "",
+        "snippet": "Non-EU producers must appoint an Authorized Representative (AR) for Extended Producer Responsibility (EPR) in each Member State where they make packaging or packaged products available for the first time, effective August 12, 2026."
+      },
+      {
+        "name": "Get ready for the EU\u2019s packaging regulation: PPWR Requirements that are effective from August",
+        "url": "https://www.intertek.com/products-retail/insight-bulletins/2026/1536-eu-ppwr-requirements-effective-from-august/",
+        "favicon": "",
+        "snippet": "The PPWR's harmonized labeling requirements, which include material composition, reusability (via QR code), and consumer sorting instructions, are mandated to be on the market by August 12, 2028."
+      },
+      {
+        "name": "PPWR compliance deadlines explained: what applies from August 2026 and what comes later",
+        "url": "https://www.coolset.com/academy/ppwr-compliance-deadlines-explained-what-applies-from-august-2026-and-what-comes-later",
+        "favicon": "",
+        "snippet": "From August 12, 2026, every packaging unit must carry a traceable identifier, such as a type, batch, or serial number, or include that information in an accompanying document if the format makes direct labeling impractical."
+      },
+      {
+        "name": "Packaging and Packaging Waste Regulation Top 6 Things to Know | Amcor",
+        "url": "https://www.amcor.com/insights/blogs/packaging-and-packaging-waste-regulation",
+        "favicon": "",
+        "snippet": "New PFAS restrictions for food-contact packaging, which includes beverages like beer, will apply to products placed on the EU market after August 12, 2026."
+      },
+      {
+        "name": "EU Packaging and Packaging Waste Regulation (PPWR) Explained | Clarity",
+        "url": "https://clarity.eco/knowledge/understanding-the-eu-packaging-and-packaging-waste-regulation-ppwr/",
+        "favicon": "",
+        "snippet": "The PPWR applies to all packaging materials and types, including primary, secondary, and tertiary packaging, and covers both B2B and B2C sectors."
+      },
+      {
+        "name": "PPWR Declaration of Conformity: what it is, when you need it and how to get it from suppliers",
+        "url": "https://www.coolset.com/academy/ppwr-declaration-of-conformity",
+        "favicon": "",
+        "snippet": "Importers are responsible for ensuring that the manufacturer has carried out the conformity assessment and drawn up the technical documentation before placing packaging on the EU market starting August 12, 2026."
+      },
+      {
+        "name": "EU Declaration of Conformity for Packaging",
+        "url": "https://euverify.com/resource/eu-declaration-of-conformity-for-packaging/",
+        "favicon": "",
+        "snippet": "The EU Declaration of Conformity (DoC) must be signed by the manufacturer or an authorized representative and retained for 5 years for single-use packaging or 10 years for reusable packaging."
+      },
+      {
+        "name": "Stainless Steel Drinking Bottle Regulations in the EU: An Overview",
+        "url": "https://www.compliancegate.com/stainless-steel-bottles-regulations-european-union/",
+        "favicon": "",
+        "snippet": "Directive 94/62/EC requires that hazardous substances in packaging, specifically heavy metals such as lead, mercury, and cadmium, must not exceed a concentration level of 100 ppm."
+      },
+      {
+        "name": "Border Rejections Reported in the Rapid Alert System for Food and Feed (RASFF) in 2008\u20132023",
+        "url": "https://www.mdpi.com/2071-1050/17/7/2923",
+        "favicon": "",
+        "snippet": "EU legislation has established specific migration limits for cadmium and lead from glass and ceramic vessels."
+      },
+      {
+        "name": "Importing drinks | Food Standards Agency",
+        "url": "https://www.food.gov.uk/business-guidance/importing-drinks",
+        "favicon": "",
+        "snippet": "Health certificates are normally not required for the import of drinks and beverages that do not contain products of animal origin."
+      },
+      {
+        "name": "Guide for import of goods - European Commission's trade",
+        "url": "https://trade.ec.europa.eu/access-to-markets/en/content/guide-import-goods",
+        "favicon": "",
+        "snippet": "Importers are advised to prepare additional documents for customs clearance, which may include test results and inspection certificates such as health or veterinary certificates."
+      },
+      {
+        "name": "Importing European Alcohol: A Comprehensive Guide For International Buyers | CyAlcohol",
+        "url": "https://cyalcohol.com/article/how-to-import-alcohol-from-europe",
+        "favicon": "",
+        "snippet": "For spirits, a health certificate may be required to confirm compliance with heavy metal limits, such as lead being less than 0.1 mg/L."
+      },
+      {
+        "name": "EU Customs Laboratories - Taxation and Customs Union - European Commission",
+        "url": "https://taxation-customs.ec.europa.eu/customs/customs-controls/eu-customs-laboratories_en",
+        "favicon": "",
+        "snippet": "EU customs laboratories perform controls on substances and goods regulated by health and consumer protection legislation, including glass, which accounts for a portion of the 23% of 'other' materials tested."
+      },
+      {
+        "name": "EU - Labeling/Marking Requirements",
+        "url": "https://www.trade.gov/country-commercial-guides/eu-labelingmarking-requirements",
+        "favicon": "",
+        "snippet": "The 'wine glass and fork' symbol is a voluntary mark used to show compliance with EU chemical safety requirements for materials intended to come into contact with food."
+      },
+      {
+        "name": "Stainless Steel Drinking Bottle Regulations in the EU: An Overview",
+        "url": "https://www.compliancegate.com/stainless-steel-bottles-regulations-european-union/",
+        "favicon": "",
+        "snippet": "A Declaration of Compliance (DoC) serves to inform customers about standards, test results, and product specifications for food contact materials."
+      },
+      {
+        "name": "Serious Notifications on Food Contact Materials in the EU RASFF - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8065728/",
+        "favicon": "",
+        "snippet": "Consignments of food contact materials (FCM) can be issued border rejection notifications if they are found to have non-compliant migration of metals like lead or cadmium."
+      },
+      {
+        "name": "Whisky Bottle Compliance: EU/UK/US Food Contact Rules",
+        "url": "https://www.kandacork.com/whisky-bottle-compliance-eu-uk-us-food-contact-rules/",
+        "favicon": "",
+        "snippet": "While glass is generally considered lower risk, buyers may still expect documentation such as specifications, controlled manufacturing records, and traceability for the bottle and its closure system."
+      },
+      {
+        "name": "Importing beer or wine | KVK",
+        "url": "https://www.kvk.nl/en/international/importing-beer-or-wine/",
+        "favicon": "",
+        "snippet": "Importing organic beer from outside the EU requires a specific inspection certificate known as a Certificate of Inspection (COI)."
+      },
+      {
+        "name": "Exporting Beer to the United Kingdom and Ireland August 2018",
+        "url": "https://mitc.com/wp-content/uploads/2018/08/Exporting-Beer-to-the-UK-and-Ireland.pdf",
+        "favicon": "",
+        "snippet": "For beer imports, the primary focus of EU customs documentation is on excise duty, VAT, and labeling requirements (such as alcohol volume and allergens) rather than a specific glass health certificate."
+      },
+      {
+        "name": "The Complete 2026 Guide to Triman Labeling and EPR Compliance in France",
+        "url": "https://vatcompliance.co/blog/the-complete-2026-guide-to-triman-labeling-and-epr-compliance-in-france/",
+        "favicon": "",
+        "snippet": "The French Triman logo and Info-Tri sorting instructions remain a legally binding obligation in 2026 under Article L.541-9-3 of the French Environmental Code, despite ongoing European Commission infringement proceedings."
+      },
+      {
+        "name": "France subject to a European commission infringement procedure regarding its Triman logo labelling requirements | DLA Piper",
+        "url": "https://www.dlapiper.com/en/insights/blogs/environment-health-safety-and-product-compliance/2023/france-subject-to-a-european-commission-infringement-procedure-regarding-its-triman-logo",
+        "favicon": "",
+        "snippet": "The European Commission's infringement procedure against France does not suspend the application or enforcement of the Triman labeling requirements; operators remain subject to the current regulations until they are repealed or amended by the French legislature."
+      },
+      {
+        "name": "European Commission Takes France to the CJEU Over Mandatory Triman Signage | ChemLinked",
+        "url": "https://sustainability.chemlinked.com/news/european-commission-takes-france-to-the-cjeu-over-mandatory-triman-signage",
+        "favicon": "",
+        "snippet": "Household glass beverage containers are specifically exempted from the mandatory Triman logo and Info-Tri marking requirements under the French AGEC Law."
+      },
+      {
+        "name": "European Commission Takes France to Court Over Triman Logo",
+        "url": "https://www.packlab.gr/en/eu-takes-france-to-court-triman-logo/",
+        "favicon": "",
+        "snippet": "The European Commission referred France to the Court of Justice of the European Union (CJEU) regarding the Triman logo requirement, with sources citing referral dates of July 17, 2025, and May 2026."
+      },
+      {
+        "name": "Triman Logo Dispute \u2013 French EPR Labelling vs. EU Harmonisation",
+        "url": "https://www.beyond.ly/educate/news/triman-logo-dispute-french-epr-labelling-vs-eu-harmonisation/",
+        "favicon": "",
+        "snippet": "A French environment ministry spokesperson confirmed that France intends to retain the Triman logo requirement until the EU\u2019s harmonized labeling framework under the PPWR becomes enforceable in 2028."
+      },
+      {
+        "name": "PPWR labelling requirements explained: sortability, material and reuse markings",
+        "url": "https://www.coolset.com/academy/ppwr-labelling-requirements-explained-sortability-material-and-reuse-markings",
+        "favicon": "",
+        "snippet": "The EU Packaging and Packaging Waste Regulation (PPWR) introduces a single harmonized labeling system that applies from August 12, 2026, but national schemes like Triman are not expected to be fully replaced by the mandatory EU-wide labels until August 2028."
+      },
+      {
+        "name": "The Complete 2026 Guide to Triman Labeling and EPR Compliance in France",
+        "url": "https://vatcompliance.co/blog/the-complete-2026-guide-to-triman-labeling-and-epr-compliance-in-france/",
+        "favicon": "",
+        "snippet": "Non-compliance with Triman labeling rules can result in administrative fines of up to \u20ac15,000 per legal entity per violation, enforced by the French DGCCRF."
+      },
+      {
+        "name": "PPWR labelling requirements explained: sortability, material and reuse markings",
+        "url": "https://www.coolset.com/academy/ppwr-labelling-requirements-explained-sortability-material-and-reuse-markings",
+        "favicon": "",
+        "snippet": "Packaging manufactured before August 12, 2026, may be sold for up to 36 months under a transition provision, allowing existing stock to be cleared."
+      },
+      {
+        "name": "European Commission Takes France to Court Over Triman Logo",
+        "url": "https://www.packlab.gr/en/eu-takes-france-to-court-triman-logo/",
+        "favicon": "",
+        "snippet": "The European Commission argues that France's Triman requirement violates Article 34 of the TFEU regarding the free movement of goods and failed to meet notification obligations under Directive (EU) 2015/1535."
+      },
+      {
+        "name": "Triman Logo and Sorting Instructions in France - Ashbury Global",
+        "url": "https://ashbury.global/blog/new-rules-for-triman-logo-in-france/",
+        "favicon": "",
+        "snippet": "For small packaging with a surface area (longest edge) of less than 10cm\u00b2, neither the Triman logo nor the sorting instructions are required on the physical pack."
+      },
+      {
+        "name": "Packaging law in France: a guide for e-commerce \u2013 ecosistant",
+        "url": "https://www.ecosistant.eu/en/verpackungsgesetz-in-frankreich/",
+        "favicon": "",
+        "snippet": "If the largest side of an article has an area between 10 cm\u00b2 and 20 cm\u00b2, the Triman logo must appear physically, but the Info-Tri sorting instructions may be provided digitally."
+      },
+      {
+        "name": "European Commission Takes France to the CJEU Over Mandatory Triman Signage | ChemLinked",
+        "url": "https://sustainability.chemlinked.com/news/european-commission-takes-france-to-the-cjeu-over-mandatory-triman-signage",
+        "favicon": "",
+        "snippet": "The PPWR implementing acts that will establish the exact harmonized EU label specifications are expected to be adopted by August 2026."
+      },
+      {
+        "name": "EU Packaging Regulation 2026: What US Companies Need to Know Now - Tetra Tech Sustainable Markets",
+        "url": "https://www.sustainable-markets.com/eu-packaging-regulation-2026-what-us-companies-need-to-know-now/",
+        "favicon": "",
+        "snippet": "Regulation (EU) 2025/40 (PPWR) entered into force on February 11, 2025, and will generally apply starting August 12, 2026."
+      },
+      {
+        "name": "Get ready for the EU\u2019s packaging regulation: PPWR Requirements that are effective from August",
+        "url": "https://www.intertek.com/products-retail/insight-bulletins/2026/1536-eu-ppwr-requirements-effective-from-august/",
+        "favicon": "",
+        "snippet": "Packaging placed on the market must bear the name, registered trade name or trademark, and a postal address for both the manufacturer and, where applicable, the importer to ensure traceability."
+      },
+      {
+        "name": "What Businesses Need to Know About PPWR, the EU\u2019s New Packaging Waste Law - Z2Data",
+        "url": "https://www.z2data.com/insights/what-businesses-need-to-know-about-ppwr-the-eus-new-packaging-waste-law",
+        "favicon": "",
+        "snippet": "Digital labels, such as QR codes, are intended to function as a complement to physical labeling rather than a substitute for mandatory contact and safety information."
+      },
+      {
+        "name": "Labeling Requirements for GPSR Compliance - EARP",
+        "url": "https://earpcorp.com/helpful-articles/labeling-requirements-for-gpsr-compliance/",
+        "favicon": "",
+        "snippet": "Under the General Product Safety Regulation (GPSR) (EU) 2023/988, which overlaps with PPWR for product traceability, the European Commission has confirmed that digital labels cannot replace physical labeling; physical labels remain mandatory for contact information."
+      },
+      {
+        "name": "Labeling Requirements for GPSR Compliance - EARP",
+        "url": "https://earpcorp.com/helpful-articles/labeling-requirements-for-gpsr-compliance/",
+        "favicon": "",
+        "snippet": "If an Authorized Representative is designated as the 'Responsible Person' under Article 16 of the GPSR, their full legal name, postal address, and electronic address must be included on the physical product label."
+      },
+      {
+        "name": "New EU packaging and packaging waste rules: 10 key things every global business should know",
+        "url": "https://www.fieldfisher.com/en/insights/new-eu-packaging-and-packaging-waste-rules-10-key-things-every-global-business-should-know",
+        "favicon": "",
+        "snippet": "The PPWR allows for voluntary digital labeling (e.g., QR codes) to supplement physical labels, specifically for providing detailed environmental information like material composition and reusability."
+      },
+      {
+        "name": "PPWR Requirements 2026 \u2014 EU Directive Packaging Law, EPR Registration and Full Compliance Guide - Lovat Compliance",
+        "url": "https://vatcompliance.co/blog/ppwr-requirements-2026-eu-directive-packaging-law-epr-registration-and-full-compliance-guide/",
+        "favicon": "",
+        "snippet": "From August 2027, every product unit must carry a digital identifier (typically a QR code) linking to structured data such as composition and recyclability, but this is distinct from the requirement for physical contact details."
+      },
+      {
+        "name": "Mastering the PPWR: A Guide to the EU's New Mandatory Packaging Labelling - Deutsche Recycling Service GmbH",
+        "url": "https://deutsche-recycling.com/blog/ppwr-labeling-requirement/",
+        "favicon": "",
+        "snippet": "Non-EU producers selling to EU consumers must appoint an authorized representative in each Member State to handle Extended Producer Responsibility (EPR) obligations."
+      },
+      {
+        "name": "EU packaging regulation 2025/40 PPWR: what does it mean for e-commerce?",
+        "url": "https://www.ecosistant.eu/en/eu-packaging-regulation-e-commerce/",
+        "favicon": "",
+        "snippet": "One source suggests that contact details of the packaging manufacturer may be found on the packaging, a QR code, or accompanying documents, though this contradicts other sources stating physical labels are mandatory for traceability."
+      },
+      {
+        "name": "Packaging: European Packaging and Packaging Waste Regulation | UL Solutions",
+        "url": "https://www.ul.com/resources/packaging-european-packaging-and-packaging-waste-regulation",
+        "favicon": "",
+        "snippet": "Labels must include the identification of the manufacturer and, if any, the importer, as well as a batch or serial number to allow for traceability."
+      },
+      {
+        "name": "The New EU Packaging and Packaging Waste Regulation \u2013 Highlights and Challenges Ahead",
+        "url": "https://www.khlaw.com/insights/new-eu-packaging-and-packaging-waste-regulation-highlights-and-challenges-ahead",
+        "favicon": "",
+        "snippet": "The PPWR intends to harmonize the definition and obligations of the 'authorized representative' across all Member States to eliminate discrepancies in national laws."
+      }
+    ]
+  },
+  "type": "research"
+}
